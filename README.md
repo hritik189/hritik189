@@ -10,8 +10,8 @@
 
 
 
-<p align="center"> <a href="https://github.com/Sam-GitRepo"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=abhishekverma1996&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="abhishekverma1996" /></a> </p><br>
 
+  ![](https://komarev.com/ghpvc/?username=Sam-GitRepo)
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
 ✔️ 👋 ʜɪ, ɪ’ᴍ Hritik Raj .<br>

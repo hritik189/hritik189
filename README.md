@@ -31,5 +31,9 @@
 
 ![Sam-GitRepo's github stats](https://github-stats-alpha.vercel.app/api/?username=Sam-GitRepo)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sam-GitRepo)](https://git.io/streak-stats)
+  
+<a href="https://github.com/Sam-GitRepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-GitRepo&hide=css,html&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>  
 
 

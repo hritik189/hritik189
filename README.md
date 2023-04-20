@@ -28,9 +28,11 @@
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![Sam-GitRepo's github stats](https://github-stats-alpha.vercel.app/api/?username=Sam-GitRepo)
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-GitRepo&show_icons=true&locale=en&layout=compact" alt="Sam-GitRepo" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sam-GitRepo)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-GitRepo&show_icons=true&locale=en&layout=compact" alt="Sam-GitRepo" /></p>
   
 ## My GitHub profile trophy:
 ![trophy](https://github-profile-trophy.vercel.app/api?username=Sam-GitRepo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  

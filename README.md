@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sam-GitRepo&label=Profile%20views&color=0e75b6&style=flat" alt="Sam-GitRepo" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="mailto:smarttsamy@gmail.com" target="_blank" >
   <img align="center" alt="Sam Gmail" width="38px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </p>
-
+ -->
 
 
 

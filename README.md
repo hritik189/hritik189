@@ -17,8 +17,7 @@
 ✔️ 👋 ʜɪ, ɪ’ᴍ Hritik Raj .<br>
 ✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & AI .<br>
 ✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ Java ,C++ ,HTML ,CSS, JavaScript & Salesforce. <br>
-✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ MERN Stack Development .<br>
-
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ MERN Stack Development .<br><br>
 
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
@@ -27,19 +26,11 @@
     <img src="https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,discord,idea,linkedin,nodejs,expressjs,mongodb,postman,vercel,python,svg,vite" />
 </div>
 
-
 ## ⚡️ ꜱᴛᴀᴛꜱ 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-GitRepo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam-GitRepo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-GitRepo&show_icons=true&locale=en&theme=tokyonight" alt="Sam-GitRepo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-GitRepo&&theme=tokyonight" alt="Sam-GitRepo" /></p>
+<div align="center">
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-GitRepo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam-GitRepo" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=Sam-GitRepo&show_icons=true&locale=en&theme=tokyonight" alt="Sam-GitRepo" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-GitRepo&&theme=tokyonight" alt="Sam-GitRepo" /></p>
+</div>
   
-## My GitHub profile trophy:
-![trophy](https://github-profile-trophy.vercel.app/api?username=Sam-GitRepo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
-
-
 ![snake gif](https://github.com/Sam-GitRepo/Sam-GitRepo/blob/output/github-contribution-grid-snake.svg)
-
-

@@ -33,6 +33,7 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-GitRepo&&theme=tokyonight" alt="Sam-GitRepo" /></p>
 </div>
   
-![snake gif](https://github.com/Sam-GitRepo/Sam-GitRepo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sam-GitRepo/Sam-GitRepo/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 
 

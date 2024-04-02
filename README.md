@@ -2,20 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Hritik!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Hritik!;+I'm+Full+Stack+Developer;&center=true&size=40">
   </a>
 </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sam-GitRepo&label=Profile%20views&color=0e75b6&style=flat" alt="Sam-GitRepo" /> </p>
-<p align="left"> <a href="https://twitter.com/The____Sam" target="blank"><img src="https://img.shields.io/twitter/follow/The____Sam?logo=twitter&style=for-the-badge" alt="The____Sam" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/The____Sam" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/The____Sam?logo=twitter&style=for-the-badge" alt="The____Sam" />
+  </a>
+</p>
 
-##  ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
-👋 &nbsp; ʜɪ, ɪ’ᴍ Hritik Raj.<br>
-👀 &nbsp; ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & AI.<br>
-🤠 &nbsp; ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ Java ,C++ ,HTML ,CSS, JavaScript & Salesforce. <br>
-📝 &nbsp; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ MERN Stack Development.<br><br>
 
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>

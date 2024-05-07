@@ -7,7 +7,7 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sam-GitRepo&label=Profile%20views&color=0e75b6&style=flat" alt="Sam-GitRepo" /> </p>
+[![](https://visitcount.itsvg.in/api?id=hritik189&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <p align="left">
   <a href="https://twitter.com/The____Sam" target="_blank">
     <img src="https://img.shields.io/twitter/follow/The____Sam?logo=twitter&style=for-the-badge" alt="The____Sam" />
@@ -22,12 +22,10 @@
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,sass,bootstrap,materialui,docker,c,cpp" /> <br/>
     <img src="https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,discord,idea,linkedin,nodejs,expressjs,mongodb,postman,vercel,python,svg,vite" />
 </div>
+---
 
-## ⚡️ ꜱᴛᴀᴛꜱ 
-<div align="center">
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-GitRepo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam-GitRepo" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=Sam-GitRepo&show_icons=true&locale=en&theme=tokyonight" alt="Sam-GitRepo" /></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-GitRepo&&theme=tokyonight" alt="Sam-GitRepo" /></p>
-</div>
-  
+![hritik189's Stats](https://github-readme-stats.vercel.app/api?username=hritik189&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 ![snake gif](https://github.com/Sam-GitRepo/Sam-GitRepo/blob/output/github-contribution-grid-snake-dark.svg)

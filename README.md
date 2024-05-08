@@ -1,7 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-
-
-<h1 align="center" style="margin-top: 2rem;">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Hritik!;+I'm+Full+Stack+Developer;&center=true&size=40">
   </a>

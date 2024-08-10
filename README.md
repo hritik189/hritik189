@@ -9,7 +9,7 @@
 
 --- 
 
-![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,bootstrap,docker)
+![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,docker)
 ![More Skills](https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,nodejs,expressjs,mongodb,postman,vercel,vite)
 
 ---

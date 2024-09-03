@@ -14,7 +14,9 @@
 
 ---
 
-<img src="hritik189/hritik189/icon/header_.png" />
+
+<img src="https://github.com/Nitesh-Singh-5/Nitesh-Singh-5/blob/main/icons/header_.png" />
+
 
 
 ---

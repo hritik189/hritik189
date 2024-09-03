@@ -14,7 +14,8 @@
 
 ---
 
-<img src="https://github.com/hritik189/hritik189/blob/main/icons/header_.png" />
+<img src="hritik189/hritik189/icon/header_.png" />
+
 
 ---
 

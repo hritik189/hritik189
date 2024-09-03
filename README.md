@@ -9,8 +9,8 @@
 
 
 
-![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,docker)
-![More Skills](https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,nodejs,expressjs,mongodb,postman,vercel,vite)
+![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,docker,aws)
+![More Skills](https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,nodejs,expressjs,mongodb,postman,vercel,vite,postgres)
 
 ---
 

@@ -5,16 +5,16 @@
 </h1>
 
 [![](https://visitcount.itsvg.in/api?id=hritik189&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+---
 
 
---- 
 
 ![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,docker)
 ![More Skills](https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,nodejs,expressjs,mongodb,postman,vercel,vite)
 
 ---
 
-
+<img src="https://github.com/hritik189/hritik189/blob/main/icons/header_.png" />
 
 ---
 

@@ -1,16 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Hritik!;+I'm+Full+Stack+Developer;&center=true&size=30">
-  </a>
-</h1>
-
-[![](https://visitcount.itsvg.in/api?id=hritik189&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
----
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritik&fontSize=80&fontAlignY=35&desc=DevOps+Engineer&descAlignY=55&descAlign=50)
 
 
+![](https://komarev.com/ghpvc/?username=hritik189&color=blueviolet&style=flat)
 
-![Skills](https://skillicons.dev/icons?i=git,github,java,javascript,typescript,react,next,html,css,docker,aws)
-![More Skills](https://skillicons.dev/icons?i=tailwind,netlify,linux,vscode,nodejs,expressjs,mongodb,postman,vercel,vite,postgres)
+
+![DevOps](https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,nginx,bash,grafana,prometheus,jenkins,ansible,git,github,postgres)
 
 ---
 

@@ -6,12 +6,8 @@
 
 ![DevOps](https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,nginx,bash,grafana,prometheus,jenkins,ansible,git,github,postgres)
 
----
-
 
 <img src="https://github.com/Nitesh-Singh-5/Nitesh-Singh-5/blob/main/icons/header_.png" />
-
-
 
 ---
 
